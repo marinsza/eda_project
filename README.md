@@ -1,6 +1,6 @@
-# ds-project-template
+# EDA of King's County Data - Working for Interest of my client, Mr. Hansen
 
-Template for creating ds simple projects
+Here you find all instructions to the results of the exploratory data analysis for Mr. Hansen
 
 ## Requirements
 
@@ -102,3 +102,24 @@ Before you can start with plotly in Jupyter Lab you have to install node.js (if 
    ```Bash
    python.exe -m pip install --upgrade pip
    ```
+# Files and Where to Find Them:
+## Main files:
+- *data/eda_house_join_sales_on_left.csv*: data set 
+- *EDA.ipynb*: jupyter notebook with EDA of given data set according to Mr. Hansen's needs
+- *Presentation.pdf*: Slides of presentation on EDAs
+## Ancillary Files
+- *1_Fetching_the_data_eda.ipynb*: Step by step for retrieval of data from DBeaver
+- *assignment.md*: Explanation of the EDA task
+- *requirements*: Requirements for virtual environment installation
+- *column_names.md*: Lists columns of data set
+
+
+## What you will find in each main file:
+
+1. CVS file in data folder contains data set 
+
+2. EDA jupyter notebook contains data cleaning and analysis. In it, you will see all detailed graphs and conclusions
+
+3. Presentation.pdf explains the findings 
+
+Running the jupyter notebook EDA will give you all the analysis requested
