@@ -1,4 +1,5 @@
-# EDA of King's County Data - Working for Interest of my client, Mr. Hansen
+# EDA of King's County Data
+## Working for Interest of my client, Mr. Hansen
 
 Here you find all instructions to the results of the exploratory data analysis for Mr. Hansen
 
